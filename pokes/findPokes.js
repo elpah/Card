@@ -27,5 +27,3 @@ const answer2And = pokes
 console.log("Answer 1", answer1);
 console.log("Answer 2 (OR):", answer2Or);
 console.log("Answer 2 (AND):", answer2And);
-
-
